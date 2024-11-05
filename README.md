@@ -18,7 +18,7 @@ This project demonstrates a basic React app that renders a list of favorite past
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/favourite-pasta.git
+   git clone https://jbolan12.github.io/JSX-Code-Practice-1/
    cd favourite-pasta
 
 ## Install dependencies: This project uses the following dependencies:
